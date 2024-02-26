@@ -1,3 +1,7 @@
+Disciplina: Desenvolvimento web
+Periodo: 2024.1
+ano: 2024
+
 Doc Python: https://docs.python.org/pt-br/3/
 Utilidade: transferir dados de/para servidores, interagir com bancos de dados e administrar a segurança de um site
 Rel: 3. Internet e web: introdução aos conceitos de aplicações web, infraestrutura
