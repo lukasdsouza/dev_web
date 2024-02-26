@@ -1,0 +1,85 @@
+Doc Python: https://docs.python.org/pt-br/3/
+Utilidade: transferir dados de/para servidores, interagir com bancos de dados e administrar a segurança de um site
+Rel: 3. Internet e web: introdução aos conceitos de aplicações web, infraestrutura
+web, infraestrutura em nuvem, serviços web, URLs e domínos;
+4. Conceitos básicos de programação de computadores: programação
+imperativa, programação orientada a eventos, programação
+síncrona/assíncrona, ferramentas básicas de programação, versionamento
+de código (git);
+6. Fundamentos da linguagem CSS: seletores, herança, box model, background,
+bordas, cores, manipulação de texto, overflow de conteúdo, valores,
+unidades de medida e manipulação de imagens;
+
+
+Doc Git: https://git-scm.com/doc
+Utilidade: Cria ramificações do projeto para trabalhar em novos recursos ou correções de bugs simultaneamnete sem afetar a linha principal de desenvolvimento
+Ref: 4,5,6,7,9
+Ref: 2. Protocolos de comunicação da internet: conceitos sobre protocolos de
+comunicação importantes para o desenvolvimento web (TCP/UPD, HTTP, FTP,
+SMTP e DNS);
+4. Conceitos básicos de programação de computadores: programação
+imperativa, programação orientada a eventos, programação
+síncrona/assíncrona, ferramentas básicas de programação, versionamento
+de código (git);
+5. Fundamentos da linguagem HTML: conceito de linguagem de marcação de
+texto, estrutura do documento HTML, elementos de layout, elementos de
+layout não-semânticos, elementos de destaque de texto, elementos de
+navegação, mídia, formulários e tabelas;
+6. Fundamentos da linguagem CSS: seletores, herança, box model, background,
+bordas, cores, manipulação de texto, overflow de conteúdo, valores,
+unidades de medida e manipulação de imagens;
+7. Fundamentos da linguagem Javascript: gramática básica, introdução aos
+tipos de dados e funções, expressões e operadores;
+9. Desenvolvimento de páginas para internet: ferramentas de programação
+HTML, CSS e JavaScript; ferramentas para análise de documentos HTML e CSS;
+análise de sites existentes;
+
+Doc sqlitebrowser: https://github.com/sqlitebrowser/sqlitebrowser/wiki
+Utilidade: Nele é possível modelar uma estrutura de tabelas relacionadas entre si para representar os dados do mundo real, dentro da plataforma android
+Ref: 8. Introdução a Bancos de Dados para desenvolvimento web: conceito de
+bancos de dados, bancos de dados relacionais, bancos de dados NoSQL e
+mapeamento objeto-relacional;
+
+Doc Vscode: https://code.visualstudio.com/docs
+Utilidade: 5. Fundamentos da linguagem HTML: conceito de linguagem de marcação de
+texto, estrutura do documento HTML, elementos de layout, elementos de
+layout não-semânticos, elementos de destaque de texto, elementos de
+navegação, mídia, formulários e tabelas;
+6. Fundamentos da linguagem CSS: seletores, herança, box model, background,
+bordas, cores, manipulação de texto, overflow de conteúdo, valores,
+unidades de medida e manipulação de imagens;
+7. Fundamentos da linguagem Javascript: gramática básica, introdução aos
+tipos de dados e funções, expressões e operadores;
+9. Desenvolvimento de páginas para internet: ferramentas de programação
+HTML, CSS e JavaScript; ferramentas para análise de documentos HTML e CSS;
+análise de sites existentes;
+10. Conceitos básicos sobre interfaces de usuário dinamicamente adaptáveis:
+layout baseado em proporções, layout responsivo, formatação CSS
+condicional com media queries.
+11. Frameworks para desenvolvimento fullstack: conceitos e exemplos de
+frameworks para desenvolvimento integral, ou parcial, de aplicações web em
+diferentes linguagens de programação;
+12. Aplicações web com renderização no servidor: utilização de templates html
+e conceitos de arquitetura de sistema Model-View-Controller;
+13. Desenvolvendo APIs web11. edição de código com suporte a várias linguagens de programação;terminal de comandos integrado; controle de versão
+Ref: Frameworks para desenvolvimento fullstack: conceitos e exemplos de
+frameworks para desenvolvimento integral, ou parcial, de aplicações web em
+diferentes linguagens de programação;
+
+
+
+Doc Chrome: https://developer.chrome.com/docs?hl=pt-br
+Utilidade: Principal plataforma de buscas e fonte de informação mundial
+Ref: 1. Arquitetura da Web: conceitos básicos sobre redes de computadores,
+arquiteturas de aplicações cliente-servidor, o papel do navegador web,
+conceitos e exemplos de servidores web (http e de aplicação);
+2. Protocolos de comunicação da internet: conceitos sobre protocolos de
+comunicação importantes para o desenvolvimento web (TCP/UPD, HTTP, FTP,
+SMTP e DNS);
+3. Internet e web: introdução aos conceitos de aplicações web, infraestrutura
+web, infraestrutura em nuvem, serviços web, URLs e domínos;
+9. Desenvolvimento de páginas para internet: ferramentas de programação
+HTML, CSS e JavaScript; ferramentas para análise de documentos HTML e CSS;
+análise de sites existentes;
+12. Aplicações web com renderização no servidor: utilização de templates html
+e conceitos de arquitetura de sistema Model-View-Controller;
